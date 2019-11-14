@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Taegyoon Kim"
   avatar           : "profile.png"
-  bio              : "Dual-title Phd in Political Science and Social Data Analytics"
-  location         : "State College, PA, U.S."
+  bio              : "Ph.D. in Political Science and Social Data Analytics"
+  location         : "214 Pond Lab, State College, PA, 16803"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "taegyoon@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +107,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
