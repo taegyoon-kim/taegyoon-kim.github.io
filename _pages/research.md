@@ -22,6 +22,6 @@ redirect_from:
 
 ## Forecasting Political Aggression on Social Media: A Network Analytic Approach
 
-* Despite many attempts to detect aggressive content on social media, research on how to forecast the instances of aggressive behavior is relatively rare. The goal of the paper is to forecast the occurrence of political aggression on Twitter. I build a network of political aggression where directed edges stand for the instances of political aggression from a perpetrator node who directs a politically aggressive tweet to a victim node attacked by the perpetrator node. Utilizing  machine learning models, I identify tweets of political aggression. Building on the literature identifying significant predictors of political aggression including node attributes and network characteristics, I create an edge-forecasting model for political aggression on Twitter.
+* Despite many attempts to detect aggressive content on social media, research on how to forecast the instances of aggressive behavior is relatively rare. The goal of the paper is to forecast the occurrence of political aggression on Twitter. I build a network of political aggression where directed edges stand for the instances of political aggression from a perpetrator node who directs a politically aggressive tweet at victim node. Building on the literature identifying significant predictors of political aggression including node attributes and network characteristics, I create an edge-forecasting model for political aggression.
 
 
