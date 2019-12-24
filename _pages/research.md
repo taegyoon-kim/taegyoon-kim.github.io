@@ -24,7 +24,8 @@ redirect_from:
 
 ## Other Works
 
-### Network of Uncivil Online Communication: the Case of the Impeachment Inquiry
+### Network of Uncivil Online Communication: the Case of the Impeachment Inquiry [Paper and Code](https://github.com/taegyoon-kim/Course-Project-SoDA502-STAT597)
+
 * How does uncivil political content spread on social media? Although there is mounting evidence that political incivility on social media is prevalent and can compromise the quality of democracy, we know little about how uncivil political content spreads on social media networks. In this paper, I examine how uncivil and civil users are connected in the communication network on Twitter. Do uncivil users associate with uncivil ones and civil users associate with civil ones? Based on the network of Twitter users engaged in the discussion of impeachment inquiry, I test the effect of incivility homophily and compare it with ideological incivility in terms of their substantive effect. To do so, I rely on a dataset of tweets containing the keyword, impeachment, and identify uncivil and civil users from the tweets using a ML classifier. Once the following network among uncivil and civil users are identified, I conduct visual, descriptive, and statistical analyses (ERGM) on the presence of incivility homophily. The results suggest that there is little to no evidence of incivility homophily whereas ideological homophily finds strong evidence.
 
 ### The Effect of Partisanship on the Perception of Electoral Institutions: Analysis of Tweets about the Electoral College
