@@ -13,7 +13,7 @@ redirect_from:
 
 ## Dissertation Project
 
-### Detection of Threats of Political Violence and an Analysis of their Spread on Twitter
+### Prevalence and Spread of Threats of Political Violence on Twitter
 
 The emergence of social media such as Twitter, Facebook, and Instagram, was widely touted as a technological revolution that would bring in many beneficial political outcomes. However, such early hopes are overshadowed by mounting concerns about uncivil and hateful political communication. In particular, we are observing increasing number of social media posts containing threats of political violence. The consequeces of the prevalence and spread of such threats on social media can be grave in that they can actually lead to physical violence - often causing deaths of many people - and to a hostile climate in online political discussion. Unlike other forms of problematic social media content (e.g., fake news), however, little is known about content containing such threats. Focusing on Twitter, this paper fills the gap by answering the following questions. First, how prevalent are threats of political violence? Second, how do they spread on the communication network? Using information retrieval and machine learning techniques, this paper first detects tweets containing threats of political violence. Then, it analyzes their spread on the communication network.
 
