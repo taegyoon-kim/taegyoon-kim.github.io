@@ -14,6 +14,6 @@ My primary research areas center around applying statistical and computational m
 
 In [my dissertation project](https://taegyoon-kim.github.io/research/), I build a method for automatic detection of violent political rhetoric on Twitter using ML/NLP and investigate its causes and consequences for inter-partisan relationships. As part of [the State Policy Analysis Project](https://sites.psu.edu/spap/), I investigate how state legislators respond to the COVID-19 pandemic on Twitter and the diffusion of state policies related to the pandemic. 
 
-For my work and relevant materials, please visit [my Github](https://github.com/taegyoon-kim). For my CV/Resume, please click [here](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/_pages/Resume_TaegyoonKim_22Dec2020.pdf). Thank you.
+For my work and relevant materials, please visit [my Github](https://github.com/taegyoon-kim). For my CV/Resume, please click [here](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/_pages/Resume_25Feb.pdf). Thank you.
 
 
