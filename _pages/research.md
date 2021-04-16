@@ -11,7 +11,7 @@ redirect_from:
 
 ## Working Papers
 
-<b>[Violent Political Rhetoric](https://osf.io/5ckw4/)</b> <br>
+<b>[Violent Political Rhetoric on Twitter](https://osf.io/5ckw4/)</b> <br>
 Dissertation chapter. *Under review*. <br>
 
 <b>[Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators](https://sites.psu.edu/spap/covid-19-policy/)</b> <br>
