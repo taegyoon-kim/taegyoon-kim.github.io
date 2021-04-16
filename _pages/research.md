@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Working Papers
+
+<b>[Violent Political Rhetoric](https://osf.io/5ckw4/)</b> <br>
+Dissertation chapter. *Under review*. <br>
+
+<b>[Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators](https://sites.psu.edu/spap/covid-19-policy/)</b> <br>
+Collaborative Project. *Under review*. <br>
+With _Nitheesha Nakka_, _Ishita Gopal_, _Bruce Desmarais_, _Abigail Mancinelli_, _Jeffrey Harden_, _Hyein Ko_, and _Frederick Boehmke_  
 
 
 ## Dissertation Project
