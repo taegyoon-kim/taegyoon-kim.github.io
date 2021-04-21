@@ -11,12 +11,19 @@ redirect_from:
 
 ## Working Papers
 
-<b>[Violent Political Rhetoric on Twitter](https://osf.io/5ckw4/)</b> <br>
+<b>Taegyoon Kim</b>. 2021. “Violent Political Rhetoric on Twitter” [[pre-print]](https://osf.io/5ckw4/) <br>
 Dissertation chapter. *Under review*. <br>
 
-<b>[Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators](https://sites.psu.edu/spap/covid-19-policy/)</b> <br>
+<b>Taegyoon Kim</b>, Nitheesha Nakka, Ishita Gopal, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. 2021. “Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators” [[pre-print]](https://sites.psu.edu/spap/covid-19-policy/) <br>
 Collaborative Project. *Under review*. <br>
-With _Nitheesha Nakka_, _Ishita Gopal_, _Bruce Desmarais_, _Abigail Mancinelli_, _Jeffrey Harden_, _Hyein Ko_, and _Frederick Boehmke_  
+
+Ishita Gopal, <b>Taegyoon Kim</b>, Nitheesha Nakka and Bruce Desmarias. 2020. “Modeling State Legislator Networks on Twitter” <br> 
+
+
+## Work in Progress
+
+<b>Taegyoon Kim</b>. 2021. “Violent Political Rhetoric on Inter-partisan Relations” <br>
+Dissertation chapter. <br>
 
 
 ## Dissertation Project
