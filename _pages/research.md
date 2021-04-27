@@ -11,19 +11,19 @@ redirect_from:
 
 ## Working Papers
 
-Violent Political Rhetoric on Twitter. *Under review*. [[pre-print]](https://osf.io/5ckw4/) <br>
+**Violent Political Rhetoric on Twitter**. 2021. *Under review*. [[pre-print]](https://osf.io/5ckw4/) <br>
 Dissertation chapter. <br>
 
-Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators. *Under review*. [[pre-print]](https://sites.psu.edu/spap/covid-19-policy/) <br>
-With Nitheesha Nakka, Ishita Gopal, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, and Frederick Boehmke. <br>
+**Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators******. 2021. *Under review*. [[pre-print]](https://sites.psu.edu/spap/covid-19-policy/) <br>
+With Nitheesha Nakka, Ishita Gopal, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, Frederick Boehmke. <br>
 
-Modeling State Legislator Networks on Twitter. <br>
-With Ishita Gopal, Nitheesha Nakka, and Bruce Desmarias. 2020. <br>
+**Modeling State Legislator Networks on Twitter**. 2021. <br>
+With Ishita Gopal, Nitheesha Nakka, Bruce Desmarias. <br>
 
 
 ## Work in Progress
 
-“Violent Political Rhetoric on Inter-partisan Relations” <br>
+**Violent Political Rhetoric on Inter-partisan Relations**. 2021. <br>
 Dissertation chapter. <br>
 
 
