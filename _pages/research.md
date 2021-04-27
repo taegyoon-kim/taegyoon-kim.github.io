@@ -14,7 +14,7 @@ redirect_from:
 **Violent Political Rhetoric on Twitter**. 2021. *Under review*. [[pre-print]](https://osf.io/5ckw4/) <br>
 Dissertation chapter. <br>
 
-**Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators******. 2021. *Under review*. [[pre-print]](https://sites.psu.edu/spap/covid-19-policy/) <br>
+**Attention to the COVID-19 pandemic on Twitter: Partisan differences among U.S. state legislators**. 2021. *Under review*. [[pre-print]](https://sites.psu.edu/spap/covid-19-policy/) <br>
 With Nitheesha Nakka, Ishita Gopal, Bruce Desmarias, Abigail Mancinelli, Jeffrey J. Harden, Hyein Ko, Frederick Boehmke. <br>
 
 **Modeling State Legislator Networks on Twitter**. 2021. <br>
