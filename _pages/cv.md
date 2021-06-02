@@ -7,4 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[Download Curriculum Vitae](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/_pages/Resume_25Feb.pdf)
+[Download C.V./Resume](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/_pages/resume_20210602.pdf)
+
+
+
+
