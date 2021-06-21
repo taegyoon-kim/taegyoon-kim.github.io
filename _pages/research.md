@@ -11,6 +11,13 @@ redirect_from:
 
 ## Working Papers
 
+Navin Bapat, Daniel Gustafson, and Rob Williams. "Terrorism, Stealth Aggression, and Political Opportunism." Presented at the Annual Meeting of the Peace Science Society (International), South Bend, IN, November, 2016.
+
+> Why do governments respond to terrorist attacks with repression, given that terrorism typically produces insignificant damage, and repression often increases popular support for terrorists? This study argues that governments use repression in response to terrorist attacks for both strategic and opportunistic reasons. Strategically, attacks may signal that terrorists are destabilizing the government’s control of its territory. Since state power is endogenous to the territory it controls, these losses may precipitously weaken the government and make it vulnerable to internal and external challengers. Governments therefore turn to violence in an effort to maintain territories that are critical to maintaining power. On the other hand, the specter of destabilization allows opportunistic leaders in quasi-democratic regimes to repress political adversaries and retain office indefinitely in the name of fighting terrorism. We find support for these hypotheses using data on African, Asian, and Middle Eastern states from 1992-2010.
+
+[Working Paper](/files/pdf/research/Terrorism Territorial Aggression.pdf){: .btn--research}
+
+
 **Violent Political Rhetoric on Twitter**. 2021. *Under review*. [[pre-print]](https://osf.io/5ckw4/) <br>
 Dissertation chapter. <br>
 
