@@ -12,7 +12,7 @@ redirect_from:
 ## Working Papers
 
 **Violent Political Rhetoric on Twitter**. <br> 
-*Under review*. [[PDF]](https://osf.io/5ckw4/) <br>
+*Under Review*. [[PDF]](https://osf.io/5ckw4/) <br>
 Dissertation Chapter. <br>
 > Violent hostility between ordinary partisans is undermining American democracy.Social media, once touted as democratizing technology, is blamed for politicalrhetoric threatening violence against political opponents and implicated in extremistoine political violence. Focusing on Twitter, I propose an automated method todetect such rhetoric and investigate its characteristics. Using a data set spanning a16-week period surrounding the 2020 Presidential Election, I demonstrate a) violenttweets peak in the days preceding the Capitol Riot, testifying their close relevanceto contentious oine politics, b) violent tweets disproportionately target women andRepublican politicians, c) violent tweets are rare but spread widely, reaching anaudience without a direct tie to violent users, d) violent users are ideologically extremeand on the fringe of the communication network, e) violent tweets are shared primarilyamong like-minded users but exhibit cross-ideological spread as well.
 
