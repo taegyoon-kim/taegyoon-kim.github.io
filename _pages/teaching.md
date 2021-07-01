@@ -5,26 +5,26 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instructor
+## Course Instructor
 
-<b>[PSLC 497: Political Networks </b> <br>
-Undergraduate Course, Department of Political Science, Penn State University, Sring 2022 (scheduled)
+<b>PSLC 497: Political Networks </b> <br>
+Undergraduate, Department of Political Science, Penn State University, Sring 2022 (scheduled)
 
 ## Graduate Methods Preceptor
 
 <b>PLSC 502: Statistical Methods for Political Research</b> <br>
-Graduate Course, Department of Political Science, Penn State University, Fall 2019
+Graduate, Department of Political Science, Penn State University, Fall 2019
 Professor Bruce Desmarais
 
 <b>PLSC 503: Multivariate Analysis for Political Research</b> <br>
-Graduate Course, Department of Political Science, Penn State University, Spring 2020
+Graduate, Department of Political Science, Penn State University, Spring 2020
 Professor Christopher Zorn
 
 <b>PLSC 504: Topics in Political Methodology</b> <br>
-Graduate Course, Department of Political Science, Penn State University, Fall 2019
+Graduate, Department of Political Science, Penn State University, Fall 2019
 Professor Christopher Zorn
 
 ## Teaching Interests
 
 Substantive: Political Communication, American Politics<br>
-Methodology: Methods for Quantitative / Computational Social Science (Network Analysis, Text-as-Data, Machine Learning, Statistical Methods)
+Methodology: Quantitative / Computational Methods (Network Analysis, Text-as-Data, Machine Learning, Statistical Methods)
