@@ -7,25 +7,24 @@ author_profile: true
 
 ## Instructor
 
-<b>[QAC 239: Machine Learning Methods for Text, Audio and Video Analysis](https://markusneumann.github.io/teaching/2020-fall-qac239)</b> <br>
-Undergraduate class, <i>Wesleyan University, Quantitative Analysis Center</i>, Fall 2020
+<b>[PSLC 497: Political Networks </b> <br>
+Undergraduate Course, Department of Political Science, Penn State University, Sring 2022 (scheduled)
 
-<b>[PLSC 130: American Political Campaigns and Elections](https://markusneumann.github.io/teaching/2018-summer-plsc130)</b> <br>
-Undergraduate class, <i>Penn State, Department of Political Science</i>, Summer 2018
+## Graduate Methods Preceptor
 
-## Teaching Assistant
+<b>PLSC 502: Statistical Methods for Political Research</b> <br>
+Graduate Course, Department of Political Science, Penn State University, Fall 2019
+Professor Bruce Desmarais
 
-<b>PLSC 501: Methods	of	Political	Analysis</b> <br>
-Graduate class, <i>Penn State, Department of Political Science</i>, Fall 2018
+<b>PLSC 503: Multivariate Analysis for Political Research</b> <br>
+Graduate Course, Department of Political Science, Penn State University, Spring 2020
+Professor Christopher Zorn
 
-Professor Allison Harris
-
-<b>PLSC 001: Introduction to American National Government</b> <br>
-Undergraduate class, <i>Penn State, Department of Political Science</i>, Fall 2016
-
-Professor Zach Baumann
+<b>PLSC 504: Topics in Political Methodology</b> <br>
+Graduate Course, Department of Political Science, Penn State University, Fall 2019
+Professor Christopher Zorn
 
 ## Teaching Interests
 
-Substantive: American Politics, Campaigns and Elections, Political Behavior, Representation, State Politics<br>
-Methods: Quantitative Methods, Text as Data, Machine Learning, Networks, Game Theory
+Substantive: Political Communication, American Politics<br>
+Methodology: Methods for Quantitative / Computational Social Science (Network Analysis, Text-as-Data, Machine Learning, Statistical Methods)
