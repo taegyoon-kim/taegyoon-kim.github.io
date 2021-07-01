@@ -27,4 +27,4 @@ Professor Christopher Zorn
 ## Teaching Interests
 
 Substantive: Political Communication, American Politics<br>
-Methodology: Quantitative / Computational Methods (Network Analysis, Text-as-Data, Machine Learning, Statistical Methods)
+Methodology: Statistical / Computational Methods (Network Analysis, Text-as-Data, Machine Learning)
