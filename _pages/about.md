@@ -12,7 +12,7 @@ Welcome! I am a dual-title Ph.D. candidate in [Political Science](https://polisc
 
 In my dissertation, I identify tweets threatening violence against opposing partisans, examine key substantive dimensions associated with such threats, and investigate their causes and consequences. My dissertation brings attention to violent partisan hostility in the contemporary U.S. politics and sheds new light on political polarization and extremist online political communication. The first chapter of my dissertation, [Violent Political Rhetoric on Twitter](https://taegyoon-kim.github.io/research/), is the recipient of [2021 Political Networks Section John Sprague Award](https://www.apsanet.org/STAFF/Membership-Workspace/Organized-Sections/Organized-Section-Awards/Organized-Section-Awards/Section-41).
 
-My other research projects extend to online communication of U.S. state policymakers on highly contentious public policy agendas, such as the management of the COVID-19 pandemic and vaccination, complementing my substantive focus on partisanship, polarization, extremism.
+My other research projects extend to online communication of U.S. state legislators on highly contentious public policy agendas, such as the management of the COVID-19 pandemic and vaccination, complementing my substantive focus on partisanship, polarization, and extremism.
 
 For my work and relevant materials, please visit my [Github](https://github.com/taegyoon-kim). For my CV/Resume, please click [here](https://taegyoon-kim.github.io/files/resume_20210602.pdf). Thank you.
 
