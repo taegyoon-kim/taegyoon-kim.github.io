@@ -12,15 +12,15 @@ Undergraduate, Department of Political Science, Penn State University, Spring 20
 
 ## Graduate Methods Preceptor
 
-<b>PLSC 502: Statistical Methods for Political Research</b> <br>
+<b>PLSC 502: Statistical Methods for Political Research</b> [[Syllabus]](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/PLSC502_fall_2019.pdf) <br>
 Graduate, Department of Political Science, Penn State University, Fall 2019 <br>
 Professor Bruce Desmarais
 
-<b>PLSC 503: Multivariate Analysis for Political Research</b> <br>
+<b>PLSC 503: Multivariate Analysis for Political Research</b> [[Syllabus]](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/PLSC503_spring_2020.pdf) <br>
 Graduate, Department of Political Science, Penn State University, Spring 2020 <br>
 Professor Christopher Zorn
 
-<b>PLSC 504: Topics in Political Methodology</b> <br>
+<b>PLSC 504: Topics in Political Methodology</b> [[Syllabus]](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/PLSC504_fall_2019.pdf) <br>
 Graduate, Department of Political Science, Penn State University, Fall 2019 <br>
 Professor Christopher Zorn
 
