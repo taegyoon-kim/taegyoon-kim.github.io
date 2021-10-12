@@ -14,4 +14,4 @@ In my dissertation, I identify tweets threatening violence against opposing part
 
 My other research project, I examine the online communication network of U.S. state legislators and how it relates to highly contentious public policy issues, such as the management of the COVID-19 pandemic and vaccinations, complementing my substantive focus on partisanship, polarization, and extremism.
 
-For materials relelated my reserach, visit my [Github](https://github.com/taegyoon-kim). For my CV, please click [here](https://taegyoon-kim.github.io/cv/). Thank you.
+For materials relelated my reserach, visit my [Github](https://github.com/taegyoon-kim). For my CV, please click [here](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/curriculum_vitae_ap.pdf). Thank you.
