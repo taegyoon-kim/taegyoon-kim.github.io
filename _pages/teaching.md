@@ -30,5 +30,5 @@ Professor Christopher Zorn
 <b>American Politics</b><br>
 Introduction to American Politics, Political Parties and Partisanship, Media, Social Media and Politics, State Politics<br>
 
-<b>Computationa/statistical Methods</b><br>
+<b>Statistical and Computational Methods</b><br>
 Introduction to Quantitative Methods, Regression Analysis, Advanced Quantitative Methods, Text-as-Data, Network Analysis, Machine Learning for Social Science Research
