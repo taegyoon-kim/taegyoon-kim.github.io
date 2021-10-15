@@ -8,7 +8,7 @@ author_profile: true
 ## Instuctor 
 
 <b>SoDA 308: Research Design for Social Data Analytics</b> <br>
-Undergradaute, Department of Political Science, Penn State University, Scheduled for 2022 Spring<br>
+Undergraduate, Department of Political Science, Penn State University, Scheduled for 2022 Spring<br>
 > This course introduces students to the study and use of research designs for social data analytics (including "big data"). Students will learn to develop and apply innovative research designs for computational, statistiscal, and experimental analyses of social data and how to present these analyses to non-technical audiences.
 
 ## Graduate Methods Preceptor
