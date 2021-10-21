@@ -30,7 +30,7 @@ With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 
 ## Work in Progress
 
-**Violent Political Rhetoric on Inter-partisan Relations** <br>
+**Violent Political Rhetoric and Inter-partisan Relations** <br>
 Dissertation Chapter <br>
 
 **Moralized Politics and Violent Partisan Hostility on Twitter** <br>
