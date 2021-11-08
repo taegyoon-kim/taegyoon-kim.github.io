@@ -25,8 +25,7 @@ Dissertation Chapter <br>
 \*  Recipient of 2021 John Sprague Award from the Political Networks Section, American Political Science Association
 > Violent hostility between ordinary partisans is undermining American democracy. Social media, once touted as democratizing technology, is blamed for political rhetoric threatening violence against political opponents and implicated in extremist offline political violence. Focusing on Twitter, I propose an automated method to detect such rhetoric and investigate its characteristics. Using a data set spanning a 16-week period surrounding the 2020 Presidential Election, I demonstrate a) violent tweets peak in the days preceding the Capitol Riot, testifying their close relevance to contentious offline politics, b) violent tweets disproportionately target women and Republican politicians, c) violent tweets are rare but spread widely, reaching an audience without a direct tie to violent users, d) violent users are ideologically extreme and on the fringe of the communication network, e) violent tweets are shared primarily among like-minded users but exhibit cross-ideological spread as well.
 
-**Modeling State Legislator Networks on Twitter** <br>
-[[PDF]](https://osf.io/mm/) <br>
+**Modeling State Legislator Networks on Twitter** [[PDF]](https://osf.io/mm/) <br>
 With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 > A lot of attention has been paid to studying the online activity of the members of the United States Congress. This scrutiny has not been extended to state legislators. Very few studies exist which catalogue why state legislators connect and communicate with one another online in the ways they do. Inspired by this question and building on studies which have analyzed online communication of members of national legislatures, this paper aims to systematically analyze state legislator relationships in the online environment. We collect original data for 4000+ legislators and study patterns of connection and communication of state legislators on Twitter. The results from this study will help better understand what motivates tie formation in the online environment and if these patterns of connection conform to or can predict offline relationships. We test the impact of variables such as party affiliation, state, chamber, cohort, gender, and policy area focus on the organization of these online networks. We look at three main types of networks that can arise due to participation on Twitter - follower, retweets and mentions. We also aggregate the ties to infer dynamics between states.
 
@@ -41,6 +40,9 @@ Dissertation Chapter <br>
 
 **State Legislators’ Attention to and Stance on Vaccination** <br>
 With Bruce Desmarais <br>
+
+**Network Shutdowns during Mass Uprisings in Dictatorships** <br>
+With Wonjun Song <br>
 
 
 ## Dissertation Project
