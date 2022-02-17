@@ -12,7 +12,7 @@ redirect_from:
 ## Published Papers
 
 **Violent Political Rhetoric on Twitter** <br> 
-Conditionally accepted at *Political Science Research and Methods.* 2022. [[Paper]](https://github.com/taegyoon-kim/violent_political_rheotric_on_twitter/blob/master/Violent%20Political%20Rhetoric%20on%20Twitter.pdf) <br>
+Forthcoming at *Political Science Research and Methods.* 2022. [[Paper]](https://github.com/taegyoon-kim/violent_political_rheotric_on_twitter/blob/master/Violent%20Political%20Rhetoric%20on%20Twitter.pdf) <br>
 Dissertation Chapter <br>
 \*  Recipient of 2021 John Sprague Award from the Political Networks Section, American Political Science Association
 > Violent hostility between ordinary partisans is undermining American democracy. Social media is blamed for rhetoric threatening violence against political opponents and implicated in offline political violence. Focusing on Twitter, I propose a method to identify such rhetoric and investigate substantive patterns associated with it. Using a data set surrounding the 2020 Presidential Election, I demonstrate that violent tweets closely track contentious politics offline, peaking in the days preceding the Capitol Riot. Women and Republican politicians are targeted with such tweets more frequently than non-Republican and men politicians. Violent tweets, while rare, spread widely through communication networks, reaching those without direct ties to violent users on the fringe of the networks. This paper is the first to make sense of violent partisan hostility expressed online, contributing to the fields of partisanship, contentious politics, and political communication.
