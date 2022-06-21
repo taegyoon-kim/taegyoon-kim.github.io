@@ -35,12 +35,13 @@ With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 
 ## Work in Progress
 
-**Why Do Political Elites Use Moralizing Rhetoric?** <br>
-With Juyeon Julia Park <br>
-
 **Moralized Politics and Violent Partisan Hostility on Twitter** <br>
 
 **The Causes and Consequences of State Legislators’ Anti-vaccine Rhetoric** <br>
+With Xinyu Wang, Bruce Desmarais, Sarah Rajtmajer <br>
+
+**Why Do Political Elites Use Moralizing Rhetoric?** <br>
+With Juyeon Julia Park <br>
 
 **Network Shutdowns during Mass Uprisings in Dictatorships** <br>
 With Wonjun Song <br>
