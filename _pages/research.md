@@ -40,7 +40,7 @@ With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 **The Causes and Consequences of State Legislators’ Anti-vaccine Rhetoric** <br>
 With Xinyu Wang, Bruce Desmarais, Sarah Rajtmajer <br>
 
-**Why Do Political Elites Use Moralizing Rhetoric?** <br>
+**Why Do Political Elites Use Moral Rhetoric?** <br>
 With Juyeon Julia Park <br>
 
 **Network Shutdowns during Mass Uprisings in Dictatorships** <br>
