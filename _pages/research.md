@@ -36,8 +36,8 @@ With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 
 ## Work in Progress
 
-**The Causes and Consequences of State Legislators’ Anti-vaccine Rhetoric** <br>
-With Xinyu Wang, Bruce Desmarais, Sarah Rajtmajer <br>
+**U.S. State Legislators’ Anti-vaccine Rhetoric on Twitter** <br>
+With Xinyu Wang, Maya Merhi, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 
 **Why Do Political Elites Use Moral Rhetoric?** <br>
 With Juyeon Julia Park <br>
