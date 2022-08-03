@@ -25,7 +25,8 @@ With Nitheesha Nakka, Ishita Gopal, Bruce Desmarais, Abigail Mancinelli, Jeffrey
 ## Working Papers
 
 **The Effects of Partisan Elites' Violent Rhetoric on Support for Political Violence** <br>
-> Violent hostility between ordinary partisans is undermining American democracy. How does exposure to partisan elites' violent rhetoric shape mass support for political violence? In the context of social media communication where individuals are exposed to elite messages from both sides of the partisan divide, I examine the impact of violent rhetoric from both co-party and opposing party elites on support for violence against partisan opponents and the mediating role of emotions in the process. In a pre-registered 2 x 2 online survey experiment where participants are assigned to four different versions (violent or not and co-partisan or not) of social media messages on controversial political issues, I find that co-party elites' violent rhetoric increases support for violence while there is no such effect when the same rhetoric comes from opposing party elites. Unfortunately, no evidence is found for partisans' countervailing behavior against violent elite rhetoric. In addition, fear is found to mediate the inflaming effect of violent political rhetoric. This paper is among the first to make sense of the effects of elite rhetoric on violent partisan hostility and its causal mechanisms, advancing our knowledge in political violence, political communication, and political psychology.
+*Under Review*
+> Violent partisan hostility is undermining American democracy. How does partisan elites’ violent rhetoric shape support for political violence? Focused on social media communication where individuals are exposed to elite messages from both sides of the partisan divide, I conduct an online experiment to examine the impact of co-party and opposing party elites’ violent rhetoric on support for political violence and the medi- ating role of emotions in the process. Drawing insights from theories of opinion lead- ership and inter-group conflict, I demonstrate that co-party (but not opposing party) elites’ violent rhetoric increases support for violence and that partisans fail to coun- tervail against elites’ violent rhetoric. Further, I show that fear mediates the inflaming effect whereas anger, disgust, and sadness suppress it. This paper is among the first to make sense of the effects of elite rhetoric on violent partisan hostility, advancing knowledge in political violence, political communication, and political psychology.
 
 **The National Network of U.S. State Legislators on Twitter** <br>
 With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
@@ -35,13 +36,13 @@ With Ishita Gopal, Nitheesha Nakka, Bruce Desmarais <br>
 
 ## Work in Progress
 
-**Moralized Politics and Violent Partisan Hostility on Twitter** <br>
-
 **The Causes and Consequences of State Legislators’ Anti-vaccine Rhetoric** <br>
 With Xinyu Wang, Bruce Desmarais, Sarah Rajtmajer <br>
 
 **Why Do Political Elites Use Moral Rhetoric?** <br>
 With Juyeon Julia Park <br>
+
+**Moralized Politics and Violent Partisan Hostility on Twitter** <br>
 
 **Network Shutdowns during Mass Uprisings in Dictatorships** <br>
 With Wonjun Song <br>
