@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a postdoctoral fellow at [the Center for Science of Science and Innovation](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at [the Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu). I received my Ph.D. in [Political Science](https://polisci.la.psu.edu) and [Social Data Analytics](https://soda.la.psu.edu) at [Pennsylvania State University](https://www.psu.edu). I was advised my [Bruce Desmarais](http://brucedesmarais.com).
+Welcome! I am a postdoctoral fellow at [the Center for Science of Science and Innovation](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at [the Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu). I received my Ph.D. in [Political Science](https://polisci.la.psu.edu) and [Social Data Analytics](https://soda.la.psu.edu) at [Pennsylvania State University](https://www.psu.edu). I was advised by [Bruce Desmarais](http://brucedesmarais.com).
 
 My research centers around applying statistical and computational methods (natural language processing, machine learning, network analysis) as well as experiments (survey, field) to achieve a better understanding of digital communication, polarization, public policy, and the intersection of science and politics, focused on the United States. 
 
