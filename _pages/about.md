@@ -18,4 +18,4 @@ Another stream of my research examines networked online communication of U.S. st
 
 Recently, I am working on how politics shapes the development and spread of scientific knowledge.
 
-For materials related to my research, visit my [Github](https://github.com/taegyoon-kim). For my CV, please click [here](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/curriculum_vitae_postdoc.pdf). Thank you very much!
+For materials related to my research, visit my [Github](https://github.com/taegyoon-kim). For my CV, please click [here](https://github.com/taegyoon-kim/taegyoon-kim.github.io/blob/master/files/curriculum_vitae_ap.pdf). Thank you very much!
