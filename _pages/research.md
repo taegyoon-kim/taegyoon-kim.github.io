@@ -37,7 +37,7 @@ redirect_from:
 ## Work in Progress
 
 - **Pathways of Science-based Public Policymaking: Scientists in the U.S. Government** <br> With Yian Yin, Alexander Furnas, Dashun Wang <br>
-- **Global Policy Landscape: Analysis of Citation Networks of Policy Documents** <br> With Yian Yin, Alexander Furnas, Dashun Wang <br>
+- **Global Policy Landscape: Analysis of Citation Networks of Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
 - **State Policy Leadership and Followership During the COVID-19 Pandemic** <br> With Frederick Boehmke, Jeffrey Harden, Bruce Desmarais, Ishita Gopal, Samauel Harper, Johabed Olvera <br> 
 - **Why Do Political Elites Use Moral Rhetoric? Analysis of U.S. Congress Members' Twitter Communication** <br> With Juyeon Julia Park <br>
 - **Democratic Backsliding and Endogenous Polarization** <br> With Ishita Gopal, Erica Frantz, Joseph Wright <br>
