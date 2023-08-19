@@ -7,9 +7,14 @@ author_profile: true
 
 ## Instuctor 
 
+<b>HSS 611: Programming for Digital Humanities and Computational Social Sciences</b> [[Syllabus]](https://github.com/taegyoon-kim/soda_308_2022_spring/blob/main/) <br>
+Graduate, School of Digital Humanities and Computational Social Sciences, KAIST, Fall 2023 <br>
+
+<b>HSS 313: Digital Media and Democracy</b> [[Syllabus]](https://github.com/taegyoon-kim/soda_308_2022_spring/blob/main/) <br>
+Undergraduate, School of Digital Humanities and Computational Social Sciences, KAIST, Fall 2023 <br>
+
 <b>SoDA 308: Research Design for Social Data Analytics</b> [[Syllabus]](https://github.com/taegyoon-kim/soda_308_2022_spring/blob/main/Syllabus_SoDA308_2022_Spring.pdf) <br>
 Undergraduate, Department of Political Science, Penn State University, Spring 2022 <br>
-> This course introduces students to the study and use of research designs for social data analytics (including "big data"). Students will learn to develop and apply innovative research designs for computational, statistical, and experimental analyses of social data and how to present these analyses to non-technical audiences.
 
 ## Graduate Methods Preceptor
 
