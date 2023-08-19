@@ -32,8 +32,8 @@ Professor Christopher Zorn
 
 ## Teaching Interests
 
-<b>American Politics</b><br>
-Introduction to American Politic | Political Parties and Partisanship | Media, Social Media, and Politics | State Politics<br>
+<b>Substantive courses</b><br>
+Introduction to American Politics | Political Parties and Partisanship | Media, Social Media, and Politics <br>
 
-<b>Statistical and Computational Methods</b><br>
+<b>Methods courses</b><br>
 Introduction to Statistical Methods | Regression Analysis | Advanced Quantitative Methods | Text-as-Data | Network Analysis | Machine Learning for Social Science Research
