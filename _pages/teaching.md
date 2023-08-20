@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Instuctor 
+## Instructor 
 
 <b>HSS 611: Programming for Digital Humanities and Computational Social Sciences</b> [[Syllabus]](https://github.com/taegyoon-kim/soda_308_2022_spring/blob/main/) <br>
 Graduate, School of Digital Humanities and Computational Social Sciences, KAIST, Fall 2023 <br>
