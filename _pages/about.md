@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in [the School of Digital Humanities and Computational Social Sciences](https://hss.kaist.ac.kr) and a joint professor in [the Graduate School of Data Science](https://kse.kaist.ac.kr), [the Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/). 
+I am an assistant professor at [the School of Digital Humanities and Computational Social Sciences](https://hss.kaist.ac.kr), [the Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/kr/). 
 
 Previously, I was a postdoctoral fellow at [the Center for Science of Science and Innovation](https://www.kellogg.northwestern.edu/research/science-of-science.aspx) at [the Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu), led by [Dashun Wang](https://www.dashunwang.com). I completed my Ph.D. in [Political Science](https://polisci.la.psu.edu) and [Social Data Analytics](https://soda.la.psu.edu) at [Pennsylvania State University](https://www.psu.edu). I was advised by [Bruce Desmarais](http://brucedesmarais.com).
 
