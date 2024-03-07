@@ -83,9 +83,9 @@ author:
   name             : "Taegyoon Kim"
   avatar           : "Headshot_Taegyoon kim_2.png"
   bio              : "Ph.D. in Political Science and Social Data Analytics"
-  location         : 
+  location         : "Daejeon, South Korea"
   employer         :
-  email            : "taegyoon.academic@gmail.com"
+  email            : "taegyoon@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1230-774X/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
