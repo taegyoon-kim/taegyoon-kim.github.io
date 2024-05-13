@@ -38,6 +38,7 @@ redirect_from:
 ## Work in Progress
 
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
+- **Why Do Members of Congress Use Moral Rhetoric, and How Did It Evolve?** <br> With Juyeon Julia Park <br>
 - **State Policy Leadership and Followership During the COVID-19 Pandemic** <br> With Frederick Boehmke, Jeffrey Harden, Bruce Desmarais, Ishita Gopal, Samauel Harper, Johabed Olvera <br> 
 - **Network Shutdowns during Mass Uprisings in Dictatorships** <br> With Wonjun Song <br>
 - **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> With Wonjun Song <br>
