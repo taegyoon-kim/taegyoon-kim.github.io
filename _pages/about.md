@@ -14,5 +14,6 @@ Previously, I was a postdoctoral fellow at [the Center for Science of Science an
 
 My research revolves around the application of computational and statistical methods, complemented by experimental approaches, to achieve a comprehensive understanding of digital politics, political communication, and the interplay between science, policy, and politics. 
 
-I am looking for motivated students in social sciences who are enthusiastic about integrating theoretical insights with computational and statistical methods to leverage large-scale data. Recruitment will be through both the School of Digital Humanities and Computational Social Sciences and the Graduate School of Data Science. If you have any qustions, reach out to me at taegyoon@kaist.ac.kr.
+I am looking for motivated students who are enthusiastic about integrating theoretical insights with computational and statistical methods to leverage large-scale data for M.S. or Ph.D. degrees in Computational Social Science. Recruitment will be through both the School of Digital Humanities and Computational Social Sciences and the Graduate School of Data Science. 
 
+If you have any questions, reach out to me at taegyoon@kaist.ac.kr.
