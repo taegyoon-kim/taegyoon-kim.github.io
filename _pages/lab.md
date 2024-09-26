@@ -9,7 +9,7 @@ Welcome to the Knowledge and Democracy Lab! Based at KAIST, the Lab's research f
 
 ## Recruitment
 
-The Lab seeks students who are enthusiastic about integrating theoretical insights with cutting-edge methods to leverage large-scale data for M.S. or Ph.D. degrees in Computational Social Science or Data Science. Students will be recruited through both the School of Digital Humanities and Computational Social Sciences and the Graduate School of Data Science. Please feel free to reach out at taegyoon@kaist.ac.kr for questions about the application process, research opportunities, or to learn more about the Lab's current projects and ongoing initiatives.
+The Lab seeks students who are enthusiastic about integrating theoretical insights with cutting-edge methods to leverage large-scale data for M.S. or Ph.D. degrees in Computational Social Science or Data Science. Students will be recruited through both the School of Digital Humanities and Computational Social Sciences and the Graduate School of Data Science. Please feel free to reach out at [taegyoon@kaist.ac.kr](taegyoon@kaist.ac.kr) for questions about the application process, research opportunities, or to learn more about the Lab's current projects and ongoing initiatives.
 
 ## Students
 
