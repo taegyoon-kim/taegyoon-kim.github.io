@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Knowlege and Democracy Lab"
+title: "Knowledge and Democracy Lab"
 permalink: /lab/
 author_profile: true
 ---
