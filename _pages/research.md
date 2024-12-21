@@ -32,8 +32,9 @@ redirect_from:
 
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Under Review_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 - **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _Under Review_ <br> With Wonjun Song <br>
+- **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br> 
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
-- **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> With Juyeon Julia Park <br> 
+
 
 ## Work in Progress
 
