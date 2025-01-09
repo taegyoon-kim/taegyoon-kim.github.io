@@ -30,7 +30,7 @@ redirect_from:
 
 ## Working Papers
 
-- **Toward Robust and Replicable Big Data Analysis of Online Platforms** <br> _Revised and Resubmit_ <br> With Myokyung Han, Jinhyuk Yun, Lanu Kim <br>
+- **Toward Robust and Replicable Big Data Analysis of Online Platforms** <br> _Revise and Resubmit_ <br> With Myokyung Han, Jinhyuk Yun, Lanu Kim <br>
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Under Review_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 - **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _Under Review_ <br> With Wonjun Song <br>
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br> 
