@@ -18,6 +18,8 @@ The Lab seeks students who are enthusiastic about integrating theoretical insigh
 - Quang Minh Nguyen: Minh is an M.S. student in data science. His current focus is on building natural language processing tools with applications in the reasoning and analysis of socio-political issues on social media platforms. His broader interest is to solve machine reasoning on textual and visual data spaces, which includes---but is not limited to---tasks such as knowledge representation, instruction-following generation, and decision making, potentially with multi-disciplinary applications.
 
 - Hayden Arnold: Hayden is an M.S. student in computational social science. With a background in both computer science and political science, his specific research interests concern social media, network mapping and soft power analysis, and predicting societal trends. His methodological focus is on network science and predictive models, utilizing both machine learning and deep learning.
+
+- Joohee Choi: Joohee, co-advised by Prof. Jeongwoo Jang, is an M.S. student in computational social science. Her research focuses on detecting disinformation and hate speech in politicians’ statements on social media and in congressional records using NLP methodologies, particularly fine-tuned large language models (LLMs). Recently, she has developed an interest in the validity of public opinion polls, exploring why results vary based on survey questions, sampling methods, and other factors.
    
 
 
