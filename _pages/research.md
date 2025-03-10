@@ -36,7 +36,7 @@ redirect_from:
 - **Is External Information Useful for Stance Detection with LLMs?** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
-- **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
+- **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** <br> With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
 
 
 ## Work in Progress
