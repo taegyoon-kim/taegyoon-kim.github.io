@@ -9,6 +9,14 @@ redirect_from:
 
 ## Published Papers
 
+
+
+
+- **Is External Information Useful for Stance Detection with LLMs?** <br> _<ins>Findings of the Association for Computational Linguistics</ins>_ 2025 <br>  With Quang Minh Nguyen <br>
+  <details close><summary>Abstract</summary>
+  <i>In the stance detection task, a text is classified as either favorable, opposing, or neutral towards a target. Prior work suggests the use of external information, e.g., excerpts from Wikipedia, improves stance detection performance. However, whether or not such information can benefit large language models (LLMs) remains an unanswered question, despite their wide adoption in many reasoning tasks. In this study, we conduct a systematic evaluation on how external information can affect stance detection across eight LLMs and in three datasets with 12 targets. Surprisingly, we find that such information degrades performance in most cases, with macro F1 scores dropping by up to 15.9%. This degradation is even more pronounced at a 28.1% drop when stance biases are introduced in the external information, as LLMs tend to align their predictions with the stance of the provided information rather than the ground truth stance of the given text. We also find that fine-tuning mitigates bias but does not fully eliminate it. Our findings, in contrast to previous literature on BERT-based systems suggesting that external information enhances performance, highlight the risks of information biases in LLM-based stance classifiers.</i>
+  </details>
+
 - **The Effects of Partisan Elites' Violent Rhetoric on Support for Political Violence** <br> _<ins>Political Behavior</ins>_ 2025
   <details close><summary>Abstract</summary>
   <i>Violent partisan hostility is undermining American democracy. How does partisan elites’ violent rhetoric shape support for political violence? Focused on social media communication where individuals are exposed to elite messages from both sides of the partisan divide, I conduct an online experiment to examine the impact of co-party and opposing party elites’ violent rhetoric on support for political violence and the medating role of emotions in the process. Drawing insights from theories of opinion leadership and inter-group conflict, I demonstrate that co-party (but not opposing party) elites’ violent rhetoric increases support for violence and that partisans fail to countervail against elites’ violent rhetoric. Further, I show that fear mediates the inflaming effect whereas anger, disgust, and sadness suppress it. This paper is among the first to make sense of the effects of elite rhetoric on violent partisan hostility, advancing knowledge in political violence, political communication, and political psychology.</i>
@@ -33,7 +41,6 @@ redirect_from:
 - **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _Revise and Resubmit_ <br> With Wonjun Song <br>
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Under Review_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
-- **Is External Information Useful for Stance Detection with LLMs?** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
 - **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** <br> With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
