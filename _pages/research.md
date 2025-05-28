@@ -9,8 +9,7 @@ redirect_from:
 
 ## Published Papers
 
-
-
+- **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _<ins>Democratization</ins>_ Accepted <br> With Wonjun Song <br>
 
 - **Is External Information Useful for Stance Detection with LLMs?** <br> _<ins>Findings of the Association for Computational Linguistics</ins>_ 2025 <br>  With Quang Minh Nguyen <br>
   <details close><summary>Abstract</summary>
@@ -38,7 +37,6 @@ redirect_from:
 
 ## Working Papers
 
-- **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _Revise and Resubmit_ <br> With Wonjun Song <br>
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Under Review_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
