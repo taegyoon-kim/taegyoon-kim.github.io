@@ -10,6 +10,11 @@ redirect_from:
 ## Published Papers
 
 - **Legacies of Party Origins on the Fate of Former Authoritarian Ruling Parties** <br> _<ins>Democratization</ins>_ Accepted <br> With Wonjun Song <br>
+  <details close><summary>Abstract</summary>
+  <i>In this paper, we examine why some former authoritarian ruling parties decline after democratic transitions while others survive and thrive. We argue that former ruling parties that develop strong party brands prior to the onset of authoritarian rule (pre-seizure) are better positioned to garner electoral support under democracy than those created after dictators consolidated power (post-seizure). Pre-seizure parties, by building a party brand before authoritarian onset, are more capable of compensating for the loss of state resource advantages under democracy, whereas post-seizure parties reliant on material inducements are more vulnerable to collapse. Leveraging a dataset covering former authoritarian ruling parties from 1946 to 2010, we find that pre-seizure parties are more likely to avoid dissolution and achieve higher legislative vote shares after the democratic transition. They also exhibit greater resilience to transitional economic crises, as the negative effects of such crises on electoral performance are significantly mitigated. Complementary analysis also shows that pre-seizure parties rely more on grassroots support and less on clientelism, consistent with characteristics associated with stronger party brands. Together, these findings underscore the lasting impact of party origins on post-transition trajectories and offer new insights for the study of comparative authoritarianism, democratization, and political party development.</i>
+  </details>
+
+
 
 - **Is External Information Useful for Stance Detection with LLMs?** <br> _<ins>Findings of the Association for Computational Linguistics</ins>_ 2025 <br>  With Quang Minh Nguyen <br>
   <details close><summary>Abstract</summary>
