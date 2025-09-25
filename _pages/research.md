@@ -41,6 +41,9 @@ redirect_from:
 ## Working Papers
 
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Revise and Resubmit_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
+
+- **KOGENT: A Cogent Benchmark for Evaluating Gender Sensitivity in Korean Political Discourse with LLMs** <br> _Revise and Resubmit_ <br> With Sanghoun Song, Sunkyoung Park, Eunbi Cho, Chanyoung Jung, Woochang Kang, Eunah Park <br>
+
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
