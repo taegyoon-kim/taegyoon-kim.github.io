@@ -44,13 +44,12 @@ redirect_from:
 
 - **KOGENT: A Cogent Benchmark for Evaluating Gender Sensitivity in Korean Political Discourse with LLMs** <br> _Revise and Resubmit_ <br> With Sanghoun Song, Sunkyoung Park, Eunbi Cho, Chanyoung Jung, Woochang Kang, Eunah Park <br>
 
+- **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** <br> _Revise and Resubmit_ <br> With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
+
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
+
+- **Difficulty Perception in the Reasoning of LLMs** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
+
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
+
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
-- **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** <br> With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
-
-
-## Work in Progress
-
-- **Network Shutdowns during Mass Uprisings in Dictatorships** <br> With Wonjun Song <br>
-- **Elite Narratives on Immigrants in South Korea** <br> With Boyoon Lee, Seungwoo Han <br>
