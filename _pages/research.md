@@ -53,6 +53,8 @@ redirect_from:
 
 - **Difficulty Perception in the Reasoning of LLMs** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
 
+ - **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
+
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
