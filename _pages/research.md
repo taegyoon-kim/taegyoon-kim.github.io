@@ -9,7 +9,7 @@ redirect_from:
 
 ## Published Papers
 
-- **A Benchmark Dataset for Evaluating Gender Sensitivity in Korean Political Discourse with LLMs** <br> _<ins>Scientific Data</ins>_ Forthcoming <br> With Sanghoun Song, Sunkyoung Park, Eunbi Cho, Chanyoung Jung, Woochang Kang, Eunah Park <br>
+- **A Benchmark Dataset for Evaluating Gender Sensitivity in Korean Political Discourse with LLMs** <br> _<ins>Scientific Data</ins>_ 2025 <br> With Sanghoun Song, Sunkyoung Park, Eunbi Cho, Chanyoung Jung, Woochang Kang, Eunah Park <br>
   <details close><summary>Abstract</summary>
   <i>Large language models (LLMs) are increasingly used to analyze political discourse, yet their ability to detect subtle, culturally grounded variations in gender sensitivity remains underexplored.  We introduce KOGENT, a benchmark dataset of 1,222 transcripts from the Korean National Assembly, annotated for gender sensitivity across 6,024 utterances. Each utterance is labeled as high or low in gender sensitivity, based on contextual indicators of bias, discrimination, or inclusion, and tagged for the target group (e.g., women, men, sexual minorities, all genders). KOGENT covers legislative sessions from 1948 to 2024, including plenary sessions, committees, and hearings. Annotation reliability was ensured through dual coding and adjudication, yielding high intercoder agreement (Cohen’s κ = 0.96; Krippendorff’s α = 0.95). When tasked with labeling utterances by gender sensitivity, GPT-4.1 achieved F1-scores of 87.5% (zero-shot) and 91.2% (18-shot) for high gender sensitivity labels, while GPT-4o reached 90.4% and 91.1%, respectively. While incorporating in-domain examples enhanced model performance, limitations in distinguishing between criticisms and reinforcements of inequality, culturally specific terminology, and extended contexts were observed for both models. Our results demonstrate KOGENT’s utility as a robust benchmark for analyzing gender sensitivity in Korean political speech and evaluating multilingual LLMs’ sociocultural alignment.</i>
   </details>
@@ -54,6 +54,9 @@ redirect_from:
 - **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> With Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
 
 - **Difficulty Perception in the Reasoning of LLMs** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
+
+- **From Empathy to Risk Management: Support Seeking in Human-LLM
+Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **Fighting for or Against Freedom? The Geopolitical Paradox of South Korea’s Impeached President**  <br> _Under Review_ <br> With Jiyoung Baek, Seungook Lee <br>
 
