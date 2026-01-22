@@ -51,8 +51,22 @@ redirect_from:
 
 - **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
 
- - **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
+- **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> With Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
+
+- **Difficulty Perception in the Reasoning of LLMs** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
+
+- **Fighting for or Against Freedom? The Geopolitical Paradox of South Korea’s Impeached President**  <br> _Under Review_ <br> With Jiyoung Baek, Seungook Lee <br>
 
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
+
+- **Pace and Scale Drive Toxicity in Live Political Discourse** <br> With Hayden Arnold, Sangyeon Kim <br>
+
+- **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> With Whasun Jho, Hoon Lee <br>
+
+
+
+
+
+
