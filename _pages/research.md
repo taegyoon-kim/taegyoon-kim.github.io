@@ -62,9 +62,9 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 
-- **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
+- **How Does Toxicity Emerge in Political Livestreams? Large-Scale Evidence from Twitch** <br> _Under Review_ <br> With Hayden Arnold, Sangyeon Kim <br>
 
-- **Pace and Scale Drive Toxicity in Live Political Discourse** <br> With Hayden Arnold, Sangyeon Kim <br>
+- **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
 
 - **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> With Whasun Jho, Hoon Lee <br>
 
