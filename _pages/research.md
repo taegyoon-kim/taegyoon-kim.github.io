@@ -68,6 +68,11 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> With Whasun Jho, Hoon Lee <br>
 
+- **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
+
+
+
+
 
 
 
