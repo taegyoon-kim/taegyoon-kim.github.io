@@ -64,9 +64,9 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **How Does Toxicity Emerge in Political Livestreams? Large-Scale Evidence from Twitch** <br> _Under Review_ <br> With Hayden Arnold, Sangyeon Kim <br>
 
-- **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
+- **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> _Under Review_ <br> With Whasun Jho, Hoon Lee <br>
 
-- **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> With Whasun Jho, Hoon Lee <br>
+- **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
 
 - **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
 
