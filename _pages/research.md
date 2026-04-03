@@ -45,7 +45,7 @@ redirect_from:
   </details>
 
 
-## Working Papers
+## Selected Working Papers
 
 - **Public Policymakers' Online Anti-vaccine Statements: The Important Role of Engagement** <br> _Revise and Resubmit_ <br> With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais <br>
 
@@ -65,8 +65,6 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 
 - **How Does Toxicity Emerge in Political Livestreams? Large-Scale Evidence from Twitch** <br> _Under Review_ <br> With Hayden Arnold, Sangyeon Kim <br>
-
-- **Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> _Under Review_ <br> With Whasun Jho, Hoon Lee <br>
 
 - **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
 
