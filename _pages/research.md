@@ -51,7 +51,9 @@ redirect_from:
 
 - **Networked Policy Diffusion in the U.S. States: The Case of COVID-19 Response** <br> _Revise and Resubmit_ <br> With Frederick Boehmke, Bruce Desmarais, Ishita Gopal, Jeffrey Harden, Samuel Harper, Johabed Olvera, Issac Polbert <br>
 
-- **Rhetoric for the Win: The Strategic Use of Morality on Social Media** <br> _Under Review_ <br> With Juyeon Julia Park <br>
+- **Moralizing Politics on the Rise: Electoral Incentives and Consequences** <br> _Under Review_ <br> With Juyeon Julia Park <br>
+
+- **The Production of Policy Knowledge in the United States** <br> _Under Review_ <br> With Alexander Furnas, Dashun Wang <br>
 
 - **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> With Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
 
@@ -66,9 +68,7 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **How Does Toxicity Emerge in Political Livestreams? Large-Scale Evidence from Twitch** <br> _Under Review_ <br> With Hayden Arnold, Sangyeon Kim <br>
 
-- **Polarization and Science in Public Policymaking: An Analysis of U.S. Policy Documents** <br> With Alexander Furnas, Dashun Wang <br>
-
-- **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
+- **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> _Manuscript Prepared_  <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
 
 
 
