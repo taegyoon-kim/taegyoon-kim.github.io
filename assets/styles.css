@@ -124,6 +124,7 @@ p { margin: 0 0 1rem; }
 .hero .who {
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 .hero .who > * {
   margin: 0;
