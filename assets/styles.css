@@ -115,7 +115,7 @@ p { margin: 0 0 1rem; }
 /* Home hero */
 .hero {
   display: grid;
-  grid-template-columns: 180px 1fr;
+  grid-template-columns: 150px 1fr;
   gap: 2.5rem;
   align-items: stretch;
   margin-bottom: 1rem;
@@ -128,34 +128,25 @@ p { margin: 0 0 1rem; }
 .hero .who > * {
   margin: 0;
 }
-.hero .who h1 {
-  font-size: 1.71rem;
-  margin-bottom: 1.15rem;
-}
 .hero .who .role {
-  margin-bottom: 0.35rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: -0.01em;
+  margin-bottom: 0.5rem;
 }
 .hero .who .contact-links {
   margin-top: 0.85rem;
 }
 
 .hero img.headshot {
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 8px;
   border: 1px solid var(--border);
 }
 
-.hero .who h1 {
-  margin-top: 0;
-  margin-bottom: 0.25rem;
-}
-.hero .who .role {
-  color: var(--muted);
-  margin: 0 0 0.6rem;
-  font-size: 1.08rem;
-}
 .hero .who .subtle {
   font-size: 1.1rem;
 }
