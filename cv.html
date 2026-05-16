@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CV — Taegyoon Kim</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="nav-inner">
+    <a class="brand" href="index.html">Taegyoon Kim</a>
+    <nav class="primary">
+      <ul>
+        <li><a href="index.html">About</a></li>
+        <li><a href="lab.html">Lab</a></li>
+        <li><a href="research.html">Research</a></li>
+        <li><a href="teaching.html">Teaching</a></li>
+        <li><a href="cv.html" class="active">CV</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <h1>Curriculum Vitae</h1>
+
+  <p class="section-intro">
+    <a href="assets/files/cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
+  </p>
+
+  <iframe class="cv-frame" src="assets/files/cv.pdf" title="Curriculum Vitae"></iframe>
+
+  <p class="cv-fallback">
+    If the PDF does not load above, you can
+    <a href="assets/files/cv.pdf" target="_blank" rel="noopener">open it directly</a>.
+  </p>
+
+</main>
+
+<footer class="site-footer">
+  &copy; <span id="year"></span> Taegyoon Kim
+</footer>
+
+<script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+
+</body>
+</html>
