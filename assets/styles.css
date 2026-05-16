@@ -112,6 +112,11 @@ h3 {
 
 p { margin: 0 0 1rem; }
 
+main p,
+.student-bio {
+  text-align: justify;
+}
+
 /* Home hero */
 .hero {
   display: grid;
