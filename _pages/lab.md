@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-Welcome to the Knowledge and Democracy Lab! Based at KAIST, the Lab's research focuses on applying and developing computational and social scientific methods to better understand how scientific and technological advancements shape politics. 
+Welcome to the Knowledge and Democracy Lab! Based at KAIST, the Lab develops and applies computational and social scientific methods to understand how scientific and technological advances — including artificial intelligence and social media — shape politics and society.
 
 ## Recruitment
 
