@@ -284,7 +284,10 @@ details.abstract .abstract-body {
   width: 100%;
   height: auto;
   display: block;
-  margin: 1.5rem 0 2rem;
+  margin: 0;
+}
+.lab-banner + h2 {
+  margin-top: 1rem;
 }
 
 /* CV embed */
@@ -313,4 +316,4 @@ footer.site-footer a { color: var(--muted); }
 
 /* Utilities */
 .subtle { color: var(--muted); }
-.section-intro { color: var(--text); margin-bottom: 1.5rem; }
+.section-intro { color: var(--text); margin-bottom: 0.5rem; }
