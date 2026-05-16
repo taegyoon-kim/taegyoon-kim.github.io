@@ -57,8 +57,6 @@ redirect_from:
 
 - **Uneven Automation: AI’s Impact on Software Tasks Varies by Difficulty and Data Availability** <br> _Under Review_ <br> With Myokyung Han, Jiwoon Hong, Taegyoon Kim, Jinhyuk Yun, Lanu Kim <br>
 
-- **Difficulty Perception in the Reasoning of LLMs** <br> _Under Review_ <br> With Quang Minh Nguyen <br>
-
 - **From Empathy to Risk Management: Support Seeking in Human-LLM
 Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
@@ -66,9 +64,17 @@ Interaction** <br> _Under Review_ <br> With Joohee Choi, Jeongwoo Jang <br>
 
 - **Diffusion in a Time of Uncertainty: How the Determinants of State Policy Choices Changed During the Pandemic** <br> _Under Review_ <br> With Frederick Boehmke, Bruce Desmarais, Jeffrey Harden, Samuel Harper, Hyein Ko, Johabed Olvera, Issac Polbert, Tracee Saunders, Taylor Tokos <br>
 
+- **How AI Moral Messaging Shapes Public Opinion: Persuasive and Reinforcing Effects AI vs. Human Messaging in Political Communication** <br> _Under Review_ <br> With Whasun Jho, Hoon Lee <br>
+
 - **How Does Toxicity Emerge in Political Livestreams? Large-Scale Evidence from Twitch** <br> _Under Review_ <br> With Hayden Arnold, Sangyeon Kim <br>
 
-- **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> _Manuscript Prepared_  <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
+- **The Price of Waffling?\\Legislative Inconsistency May Go Unnoticed by Most Voters, but Policy Alignment Shapes Evaluations Among Attentive Voters** <br> _Under Review_ <br> With Sinjae Kang, Joonseok Yang, Inbok Rhee <br>
+
+- **Evidence Outperforms Intuition in Changing Minds Online: Insights from 1.6 Million Online Debates** <br> _Manuscript Prepared_ <br> With Joohee Choi, Hayden Arnold, Jeongwoo Jang <br>
+
+- **Difficulty Perception in the Reasoning of LLMs** <br>  _Manuscript Prepared_ <br> With Quang Minh Nguyen <br>
+
+- **Large Language Models are Not Always Faithful in Explaining Their Political Decision Making** <br>  _Manuscript Prepared_ <br> With Quang Minh Nguyen, Hayden Arnold <br>
 
 
 
