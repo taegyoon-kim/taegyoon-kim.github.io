@@ -30,10 +30,37 @@
   <h2>Published Papers</h2>
 
   <ul class="pub-list">
+    
+    <li>
+      <div class="pub-title">Can LLMs Reliably Self-Report Adversarial Prefills, and How?</div>
+      <div class="pub-venue"><em>Empirical Methods in Natural Language Processing</em> <span class="year">2026</span></div>
+      <div class="pub-authors">With Quang Minh Nguyen, Uzair Ahmed</div>
+       <div class="pub-actions">
+        <details class="abstract">
+          <summary>Abstract</summary>
+        </details>
+        <a class="btn-pdf" href="https://arxiv.org/abs/2606.23671" target="_blank" rel="noopener">PDF</a>
+        <div class="abstract-body">Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an adversarial prefill attack. Across ten open-weight instruction-tuned LLMs (3B to 70B) and four safety benchmarks, no model reliably recognizes its own compromised outputs, with models claiming intent on prefilled responses at an average rate of $27.3\%$. Introspective signal stems largely from safety- and refusal-related reasoning. Orthogonalizing models' weights against the refusal direction collapses the gap between claiming rates on prefilled and natural outputs to near zero, though the direction is not its unique mediator. The signal is also probe-dependent: framing the question as internal intention versus external tampering elicits qualitatively different responses on the same models. We test three LoRA finetuning methods (SFT, GRPO, DPO) on seven models from 3B to 14B; all three widen the intention-probe gap on every model at 8B and above, with method ranking varying by model. The intervention does not transfer to the tampering probe and counterintuitively raises attack success rate under adversarial prefill on most models, amounting to a partial mitigation. These findings outline mechanisms underpinning the observed introspective signals in safety contexts and highlight risks in the reliability of LLM self-reports.</div>
+      </div>
+    </li>
+
+    <li>
+      <div class="pub-title">Who Counts as "the people"? Measuring Contested Political Concepts from Political Speech using Masked Language Models</div>
+      <div class="pub-venue"><em>Empirical Methods in Natural Language Processing</em> <span class="year">2026</span></div>
+      <div class="pub-authors">With Hyeongjae Lee, Seonwoo Ahn, Sunwoo Kwak, June Jeon, Jisung Yoon</div>
+       <div class="pub-actions">
+        <details class="abstract">
+          <summary>Abstract</summary>
+        </details>
+        <a class="btn-pdf" href="https://openreview.net/pdf?id=xax5ZBRmFa" target="_blank" rel="noopener">PDF</a>
+        <div class="abstract-body">What do political elites mean when they invoke ``the people'', and how has this meaning shifted across centuries of democratic history? Although political theorists have long argued that  ``the people'' is a discursively constructed and contested category, empirical work has been largely qualitative or limited in scale, and computational approaches have yet to address how contested concepts themselves are framed over time. We address this gap with a generalizable framework that uses masked language models to measure contested political concepts as competitions among theoretically grounded frames: for each occurrence of a target term, we estimate the relative likelihood of theory-guided probe words filling the masked position, yielding interpretable scores without supervision or annotation. We showcase this framework through an in-depth case study of 3,402 U.S. presidential speeches from a period spanning over two centuries (1789–2026), operationalizing  ``the people'' along three dimensions---Nation, Civic, and Global. The resulting measurements align with major historical junctures (the Civil War, the World Wars, the Civil Rights era, Trump's nationalist turn) and co-vary with indicators of democratic development and macro-economic conditions in theoretically expected directions. Beyond ''the people'', the framework extends to other contested political concepts.</div>
+      </div>
+    </li>
 
     <li>
       <div class="pub-title">Elected officials’ online anti-vaccination statements respond to online engagement</div>
       <div class="pub-venue"><em>Vaccine</em> <span class="year">2026</span></div>
+      <div class="pub-authors">With Xinyu Wang, Sarah Rajtmajer, Jeffrey Harden, Frederick Boehmke, Bruce Desmarais</div>
       <div class="pub-actions">
         <details class="abstract">
           <summary>Abstract</summary>
@@ -211,12 +238,6 @@
       <div class="pub-authors">With Quang Minh Nguyen, Hayden Arnold</div>
     </li>
 
-    <li>
-      <div class="pub-title">Can LLMs Introspect in Safety Contexts?</div>
-      <div class="pub-venue"><em>Under Review</em></div>
-      <div class="pub-authors">With Quang Minh Nguyen, Uzair Ahmed</div>
-    </li>
-    
     <li>
       <div class="pub-title">Difficulty Perception in the Reasoning of LLMs</div>
       <div class="pub-venue"><em>Manuscript Prepared</em></div>
